@@ -1,1 +1,1 @@
-# MERN_Project
+# DJANGO_Project
